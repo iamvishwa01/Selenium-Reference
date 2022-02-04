@@ -1,0 +1,560 @@
+2022-01-28 21:15:33,202 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:33,208 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-28 21:15:33,209 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:36,624 [main] INFO SauceLabs - Chrome browser launched
+2022-01-28 21:15:38,619 [main] INFO SauceLabs - Browser Maximized
+2022-01-28 21:15:40,406 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:40,407 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:15:40,425 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:41,120 [main] INFO SauceLabs - user name provided
+2022-01-28 21:15:41,256 [main] INFO SauceLabs - password provided
+2022-01-28 21:15:41,475 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:15:41,512 [main] INFO SauceLabs - login success
+2022-01-28 21:15:41,662 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:15:41,899 [main] INFO SauceLabs - Logout button clicked
+2022-01-28 21:15:41,910 [main] INFO SauceLabs - Logout Success
+2022-01-28 21:15:41,933 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:41,936 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:15:41,936 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:42,612 [main] INFO SauceLabs - user name provided
+2022-01-28 21:15:42,782 [main] INFO SauceLabs - password provided
+2022-01-28 21:15:42,907 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:15:42,920 [main] ERROR SauceLabs - Login failed
+2022-01-28 21:15:43,361 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:43,362 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:15:43,363 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:43,962 [main] INFO SauceLabs - user name provided
+2022-01-28 21:15:44,235 [main] INFO SauceLabs - password provided
+2022-01-28 21:15:44,449 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:15:44,703 [main] INFO SauceLabs - login success
+2022-01-28 21:15:45,026 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:15:45,205 [main] INFO SauceLabs - Logout button clicked
+2022-01-28 21:15:45,215 [main] INFO SauceLabs - Logout Success
+2022-01-28 21:15:46,583 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-28 21:15:58,154 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:15:58,162 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-28 21:15:58,162 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:01,451 [main] INFO SauceLabs - Chrome browser launched
+2022-01-28 21:16:02,965 [main] INFO SauceLabs - Browser Maximized
+2022-01-28 21:16:04,295 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:04,295 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:16:04,296 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:05,009 [main] INFO SauceLabs - user name provided
+2022-01-28 21:16:05,147 [main] INFO SauceLabs - password provided
+2022-01-28 21:16:05,332 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:16:05,345 [main] INFO SauceLabs - login success
+2022-01-28 21:16:05,453 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:16:05,632 [main] INFO SauceLabs - Logout button clicked
+2022-01-28 21:16:05,655 [main] INFO SauceLabs - Logout Success
+2022-01-28 21:16:05,678 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:05,681 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:16:05,681 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:06,206 [main] INFO SauceLabs - user name provided
+2022-01-28 21:16:06,350 [main] INFO SauceLabs - password provided
+2022-01-28 21:16:06,452 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:16:06,466 [main] ERROR SauceLabs - Login failed
+2022-01-28 21:16:06,886 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:06,887 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:16:06,888 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:16:07,429 [main] INFO SauceLabs - user name provided
+2022-01-28 21:16:07,578 [main] INFO SauceLabs - password provided
+2022-01-28 21:16:07,752 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:16:07,876 [main] INFO SauceLabs - login success
+2022-01-28 21:16:08,150 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:16:08,448 [main] INFO SauceLabs - Logout button clicked
+2022-01-28 21:16:08,459 [main] INFO SauceLabs - Logout Success
+2022-01-28 21:16:09,323 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-28 21:18:18,523 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:18,532 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-28 21:18:18,532 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:21,579 [main] INFO SauceLabs - Chrome browser launched
+2022-01-28 21:18:23,207 [main] INFO SauceLabs - Browser Maximized
+2022-01-28 21:18:24,518 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:24,519 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:18:24,519 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:25,297 [main] INFO SauceLabs - user name provided
+2022-01-28 21:18:25,448 [main] INFO SauceLabs - password provided
+2022-01-28 21:18:25,679 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:18:25,688 [main] INFO SauceLabs - login success
+2022-01-28 21:18:25,807 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:18:25,923 [main] INFO SauceLabs - Logout button clicked
+2022-01-28 21:18:25,934 [main] INFO SauceLabs - Logout Success
+2022-01-28 21:18:25,953 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:25,956 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:18:25,956 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:26,974 [main] INFO SauceLabs - user name provided
+2022-01-28 21:18:27,109 [main] INFO SauceLabs - password provided
+2022-01-28 21:18:27,214 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:18:27,236 [main] ERROR SauceLabs - Login failed
+2022-01-28 21:18:27,597 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:27,598 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-28 21:18:27,599 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-28 21:18:28,178 [main] INFO SauceLabs - user name provided
+2022-01-28 21:18:28,334 [main] INFO SauceLabs - password provided
+2022-01-28 21:18:28,535 [main] INFO SauceLabs - Login Button Clicked
+2022-01-28 21:18:28,815 [main] INFO SauceLabs - login success
+2022-01-28 21:18:29,016 [main] INFO SauceLabs - menu button clicked
+2022-01-28 21:18:50,433 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-29 21:32:12,905 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:12,941 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-29 21:32:12,942 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:24,888 [main] INFO SauceLabs - Chrome browser launched
+2022-01-29 21:32:25,325 [main] INFO SauceLabs - Browser Maximized
+2022-01-29 21:32:30,718 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:30,719 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-29 21:32:30,720 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:32,846 [main] INFO SauceLabs - user name provided
+2022-01-29 21:32:33,008 [main] INFO SauceLabs - password provided
+2022-01-29 21:32:33,472 [main] INFO SauceLabs - Login Button Clicked
+2022-01-29 21:32:33,621 [main] INFO SauceLabs - login success
+2022-01-29 21:32:33,839 [main] INFO SauceLabs - menu button clicked
+2022-01-29 21:32:33,980 [main] INFO SauceLabs - Logout button clicked
+2022-01-29 21:32:33,992 [main] INFO SauceLabs - Logout Success
+2022-01-29 21:32:34,013 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:34,016 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-29 21:32:34,016 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:34,770 [main] INFO SauceLabs - user name provided
+2022-01-29 21:32:34,924 [main] INFO SauceLabs - password provided
+2022-01-29 21:32:35,044 [main] INFO SauceLabs - Login Button Clicked
+2022-01-29 21:32:35,050 [main] ERROR SauceLabs - Login failed
+2022-01-29 21:32:35,569 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:35,581 [main] INFO SauceLabs - #################                LoginSauceLabs          ########################
+2022-01-29 21:32:35,582 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-29 21:32:36,001 [main] INFO SauceLabs - user name provided
+2022-01-29 21:32:36,138 [main] INFO SauceLabs - password provided
+2022-01-29 21:32:36,343 [main] INFO SauceLabs - Login Button Clicked
+2022-01-29 21:32:36,698 [main] INFO SauceLabs - login success
+2022-01-29 21:32:36,956 [main] INFO SauceLabs - menu button clicked
+2022-01-29 21:32:37,058 [main] INFO SauceLabs - Logout button clicked
+2022-01-29 21:32:37,068 [main] INFO SauceLabs - Logout Success
+2022-01-29 21:32:40,543 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:16:36,285 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:16:36,316 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:16:36,316 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:16:56,128 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:16:56,654 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:17:11,971 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:17:12,067 [main] INFO SauceLabs - Title matched
+2022-01-31 10:17:13,734 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:31:52,611 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:31:52,626 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:31:52,627 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:31:59,594 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:32:03,060 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:32:14,597 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:32:14,610 [main] INFO SauceLabs - Title matched
+2022-01-31 10:32:14,647 [main] INFO SauceLabs - heading validation failed
+2022-01-31 10:32:16,212 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:33:20,756 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:33:20,768 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:33:20,768 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:33:25,044 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:33:28,187 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:33:38,314 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:33:38,326 [main] INFO SauceLabs - Title matched
+2022-01-31 10:34:15,037 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:34:15,047 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:34:15,048 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:34:23,010 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:34:25,239 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:34:36,708 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:34:36,722 [main] INFO SauceLabs - Title matched
+2022-01-31 10:34:59,911 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:36:39,777 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:36:39,787 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:36:39,788 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:36:44,374 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:36:45,823 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:36:59,061 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:36:59,072 [main] INFO SauceLabs - Title matched
+2022-01-31 10:36:59,462 [main] INFO SauceLabs - Practice Page
+2022-01-31 10:36:59,522 [main] INFO SauceLabs - Practice Page
+2022-01-31 10:36:59,523 [main] INFO SauceLabs - heading validation completed
+2022-01-31 10:37:01,428 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:52:47,413 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:52:47,493 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:52:47,494 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:52:53,769 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:53:01,696 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:53:16,208 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:53:16,232 [main] INFO SauceLabs - Title matched
+2022-01-31 10:53:19,458 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 10:55:18,326 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:55:18,335 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 10:55:18,335 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 10:55:22,534 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 10:55:25,477 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 10:55:37,285 [main] INFO SauceLabs - URL loaded
+2022-01-31 10:55:37,305 [main] INFO SauceLabs - Title matched
+2022-01-31 10:55:40,638 [main] INFO SauceLabs - Practice Page
+2022-01-31 10:55:40,683 [main] INFO SauceLabs - Practice Page
+2022-01-31 10:55:40,684 [main] INFO SauceLabs - heading validation completed
+2022-01-31 10:55:43,051 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 11:01:35,074 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 11:01:35,083 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 11:01:35,083 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 11:01:42,068 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 11:01:44,619 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 11:02:05,588 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-01-31 11:17:15,191 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 11:17:15,200 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-01-31 11:17:15,201 [main] INFO SauceLabs - ****************************************************************************************
+2022-01-31 11:17:22,809 [main] INFO SauceLabs - Chrome browser launched
+2022-01-31 11:17:28,169 [main] INFO SauceLabs - Browser Maximized
+2022-01-31 11:17:50,351 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:11:33,700 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:11:33,747 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:11:33,747 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:11:39,933 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 10:11:41,994 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:12:03,094 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:31:42,465 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:31:42,475 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:31:42,476 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:31:45,609 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 10:31:47,145 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:32:08,048 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:32:47,722 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:32:47,730 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:32:47,731 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:32:51,135 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 10:32:52,582 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:33:20,098 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:55:59,280 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:55:59,287 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:55:59,287 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:56:08,714 [main] INFO SauceLabs - Edge browser launched
+2022-02-01 10:56:09,033 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:56:30,361 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:56:49,710 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:56:49,717 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:56:49,718 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:56:52,954 [main] INFO SauceLabs - Edge browser launched
+2022-02-01 10:56:56,210 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:57:17,892 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 10:57:34,849 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:57:34,858 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 10:57:34,858 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 10:57:38,898 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 10:57:40,167 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 10:57:57,708 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 13:53:17,996 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 13:53:18,036 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 13:53:18,036 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 13:53:24,007 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 13:53:27,242 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 13:53:41,313 [main] INFO SauceLabs - URL loaded
+2022-02-01 13:53:41,686 [main] INFO SauceLabs - Title matched
+2022-02-01 13:54:22,950 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 13:57:06,785 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 13:57:06,797 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 13:57:06,798 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 13:57:10,267 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 13:57:11,977 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 13:58:14,198 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 14:00:25,955 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 14:00:25,969 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 14:00:25,969 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 14:00:30,218 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 14:00:32,141 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 14:01:33,413 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-01 14:02:53,635 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 14:02:53,648 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-01 14:02:53,650 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-01 14:02:58,118 [main] INFO SauceLabs - Chrome browser launched
+2022-02-01 14:03:00,061 [main] INFO SauceLabs - Browser Maximized
+2022-02-01 14:03:06,329 [main] INFO SauceLabs - URL loaded
+2022-02-01 14:03:06,703 [main] INFO SauceLabs - Title matched
+2022-02-01 14:03:08,062 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-02 11:27:59,187 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-02 11:27:59,227 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-02 11:27:59,227 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-02 11:28:08,383 [main] INFO SauceLabs - Chrome browser launched
+2022-02-02 11:28:12,264 [main] INFO SauceLabs - Browser Maximized
+2022-02-02 11:28:26,672 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:16:14,929 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:16:15,035 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:16:15,035 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:16:21,412 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:16:22,031 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:16:44,592 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:17:26,071 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:17:26,090 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:17:26,091 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:17:29,535 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:17:30,923 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:17:46,578 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:18:09,458 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:18:09,464 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:18:09,464 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:18:12,645 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:18:14,347 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:18:31,038 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:23:33,730 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:23:33,736 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:23:33,737 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:23:36,926 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:23:38,797 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:23:54,147 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:24:19,104 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:24:19,112 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:24:19,112 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:24:22,426 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:24:24,004 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:24:36,067 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:25:22,448 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:25:22,456 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:25:22,456 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:25:25,930 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:25:27,308 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:25:38,268 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:26:02,793 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:26:02,801 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:26:02,802 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:26:06,390 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:26:07,921 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:26:20,517 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:26:32,691 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:26:32,699 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:26:32,700 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:26:36,760 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:26:39,901 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:26:57,524 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:31:59,678 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:31:59,685 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:31:59,686 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:32:03,934 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:32:06,249 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:32:19,199 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:32:31,174 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:32:31,182 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:32:31,182 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:32:35,114 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:32:37,457 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:32:58,268 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:33:12,255 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:33:12,262 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:33:12,262 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:33:15,912 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:33:17,725 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:33:35,068 [main] ERROR SauceLabs - match failed
+2022-02-03 10:33:35,103 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:37:27,541 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:37:27,549 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:37:27,551 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:37:31,665 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:37:34,108 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:37:51,362 [main] INFO SauceLabs - 
+2022-02-03 10:37:51,363 [main] INFO SauceLabs - 
+2022-02-03 10:37:51,364 [main] ERROR SauceLabs - match failed
+2022-02-03 10:37:51,397 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:42:30,537 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:42:30,544 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:42:30,544 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:42:34,249 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:42:37,592 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:42:51,009 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 10:43:04,581 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:43:04,590 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 10:43:04,591 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 10:43:08,240 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 10:43:11,316 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 10:43:22,176 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-03 11:07:43,930 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 11:07:43,936 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-03 11:07:43,937 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-03 11:07:47,420 [main] INFO SauceLabs - Chrome browser launched
+2022-02-03 11:07:48,740 [main] INFO SauceLabs - Browser Maximized
+2022-02-03 11:07:56,159 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:02:15,169 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:02:15,213 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:02:15,213 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:02:19,182 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:02:20,707 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:02:26,895 [main] INFO SauceLabs - 3
+2022-02-04 09:02:26,989 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:08:29,728 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:08:29,736 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:08:29,737 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:08:33,275 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:08:35,340 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:08:41,066 [main] INFO SauceLabs - 3
+2022-02-04 09:08:41,744 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:10:12,452 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:10:12,459 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:10:12,460 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:10:16,111 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:10:18,015 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:10:22,621 [main] INFO SauceLabs - 3
+2022-02-04 09:10:23,649 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:11:14,736 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:11:14,744 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:11:14,744 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:11:18,246 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:11:20,169 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:11:25,481 [main] INFO SauceLabs - 3
+2022-02-04 09:11:25,891 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:27:18,790 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:27:18,798 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:27:18,798 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:27:22,697 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:27:24,940 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:27:31,481 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:37:35,902 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:37:35,966 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:37:35,966 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:37:40,159 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:37:42,829 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:38:15,427 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:38:15,435 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:38:15,435 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:38:19,233 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:38:21,084 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:39:09,707 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:39:09,715 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:39:09,715 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:39:12,982 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:39:14,919 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:39:25,224 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:39:58,396 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:39:58,402 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:39:58,402 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:40:01,695 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:40:03,678 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:40:28,719 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:41:11,041 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:41:11,049 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:41:11,049 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:41:14,435 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:41:16,079 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:41:21,849 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 09:43:25,989 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:43:25,996 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 09:43:25,996 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 09:43:29,242 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 09:43:31,290 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 09:43:46,870 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:10:52,863 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:10:52,869 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:10:52,869 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:10:56,860 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:10:58,684 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:11:12,988 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:12:01,431 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:12:01,440 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:12:01,440 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:12:05,989 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:12:08,878 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:12:15,435 [main] INFO SauceLabs - Practice Page
+2022-02-04 10:12:21,797 [main] INFO SauceLabs - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+2022-02-04 10:12:21,917 [main] INFO SauceLabs - Practice Page
+2022-02-04 10:12:21,957 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:14:24,148 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:14:24,159 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:14:24,160 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:14:29,080 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:14:30,625 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:14:35,563 [main] INFO SauceLabs - Practice Page
+2022-02-04 10:14:41,646 [main] INFO SauceLabs - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+2022-02-04 10:14:41,867 [main] INFO SauceLabs - Practice Page
+2022-02-04 10:14:41,907 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:39:54,644 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:39:54,652 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:39:54,653 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:39:57,872 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:40:00,031 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:40:05,162 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:53:29,366 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:53:29,373 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:53:29,374 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:53:32,628 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:53:34,649 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:53:39,652 [main] INFO SauceLabs - 27
+2022-02-04 10:54:00,414 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 10:54:36,055 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:54:36,065 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 10:54:36,065 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 10:54:40,286 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 10:54:42,538 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 10:54:48,472 [main] INFO SauceLabs - 27
+2022-02-04 10:54:48,560 [main] INFO SauceLabs - 20
+2022-02-04 10:54:48,563 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 11:01:13,535 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:01:13,543 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 11:01:13,544 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:01:16,652 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 11:01:19,396 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 11:01:24,617 [main] INFO SauceLabs - 27
+2022-02-04 11:01:24,733 [main] INFO SauceLabs - 20
+2022-02-04 11:01:25,297 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 11:03:41,799 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:03:41,808 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 11:03:41,808 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:03:45,526 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 11:03:47,842 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 11:03:54,472 [main] INFO SauceLabs - 27
+2022-02-04 11:03:54,573 [main] INFO SauceLabs - 20
+2022-02-04 11:03:55,057 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 11:08:06,598 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:08:06,611 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 11:08:06,612 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 11:08:10,755 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 11:08:13,061 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 11:08:18,989 [main] INFO SauceLabs - 27
+2022-02-04 11:08:19,079 [main] INFO SauceLabs - 20
+2022-02-04 11:08:19,181 [main] INFO SauceLabs - 5
+2022-02-04 11:08:19,184 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 12:35:51,607 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 12:35:51,642 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 12:35:51,643 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 12:35:58,629 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 12:35:58,924 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 12:36:08,702 [main] INFO SauceLabs - 27
+2022-02-04 12:36:08,896 [main] INFO SauceLabs - 20
+2022-02-04 12:36:08,992 [main] INFO SauceLabs - 5
+2022-02-04 12:36:10,603 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 13:47:53,464 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:47:53,472 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 13:47:53,473 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:47:57,390 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 13:48:00,462 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 13:48:06,251 [main] INFO SauceLabs - 27
+2022-02-04 13:48:06,341 [main] INFO SauceLabs - 20
+2022-02-04 13:48:06,402 [main] INFO SauceLabs - 5
+2022-02-04 13:48:07,352 [main] INFO SauceLabs - Practice Page
+2022-02-04 13:48:16,204 [main] INFO SauceLabs - REST API Tutorial
+2022-02-04 13:48:18,093 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 13:49:18,108 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:49:18,114 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 13:49:18,115 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:49:22,162 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 13:49:23,211 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 13:49:29,530 [main] INFO SauceLabs - 27
+2022-02-04 13:49:29,614 [main] INFO SauceLabs - 20
+2022-02-04 13:49:29,674 [main] INFO SauceLabs - 5
+2022-02-04 13:49:32,067 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 13:51:11,625 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:51:11,633 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 13:51:11,633 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:51:15,465 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 13:51:16,691 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 13:51:22,944 [main] INFO SauceLabs - 27
+2022-02-04 13:51:23,024 [main] INFO SauceLabs - 20
+2022-02-04 13:51:23,083 [main] INFO SauceLabs - 5
+2022-02-04 13:51:27,516 [main] INFO SauceLabs - Practice Page
+2022-02-04 13:51:28,096 [main] INFO SauceLabs - REST API Tutorial
+2022-02-04 13:51:28,919 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-04 13:51:57,476 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:51:57,482 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-04 13:51:57,483 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-04 13:52:00,671 [main] INFO SauceLabs - Chrome browser launched
+2022-02-04 13:52:02,289 [main] INFO SauceLabs - Browser Maximized
+2022-02-04 13:52:06,393 [main] INFO SauceLabs - 27
+2022-02-04 13:52:06,474 [main] INFO SauceLabs - 20
+2022-02-04 13:52:06,533 [main] INFO SauceLabs - 5
+2022-02-04 13:52:23,246 [main] INFO SauceLabs - Practice Page
+2022-02-04 13:52:23,349 [main] INFO SauceLabs - Apache JMeter - Apache JMeter™
+2022-02-04 13:52:24,759 [main] INFO SauceLabs - Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+2022-02-04 13:52:29,234 [main] INFO SauceLabs - The World's Most Popular API Testing Tool | SoapUI
+2022-02-04 13:52:29,832 [main] INFO SauceLabs - REST API Tutorial
+2022-02-04 13:52:29,835 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
