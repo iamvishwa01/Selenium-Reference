@@ -18,6 +18,7 @@ public class checkboxes extends BaseClass {
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
         int checkboxx = driver.findElements(By.xpath("//input[@type='checkbox']")).size();
         info(String.valueOf(checkboxx));
+        info(driver.getTitle());
     }
 
     @Test //selecting multiple checkbox
