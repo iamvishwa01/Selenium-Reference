@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNG">
+
+    <test name="Regression">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+<!--                <exclude name="smoke"></exclude>-->
+            </run>
+        </groups>
+        <classes>
+            <class name="com.learning.TestNG.Groups"></class>
+            <class name="com.learning.TestNG.TestNG"></class>
+            <class name="com.learning.TestNG.TestNGElectronic"></class>
+            <class name="com.learning.TestNG.TestNGHR"></class>
+
+        </classes>
+
+
+    </test>
+</suite>

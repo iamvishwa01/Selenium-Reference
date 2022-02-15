@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name = "swaglabs">
-        <listeners>
-            <listener class-name="com.learning.utility.Reporting"></listener>
-        </listeners>
-    <test name = "saucelabs Login page  ">
-        <parameter name="browser" value="chrome" />
+<suite name="TestNG">
 
+    <test name="Load Department">
         <classes>
+            <class name="com.learning.TestNG.TestNG"></class>
+        </classes>
+    </test>
+    <test name="Mobile">
+        <classes>
+            <class name="com.learning.TestNG.TestNGElectronic">
+                <methods>
+<!--                    regular expression to run the testcases starting with asus words-->
+                    <exclude name="asus.*"></exclude>
 
-            <!--                        <class name="com.sujeet.testcases.AddToCart"/>-->
-<!--            <class name="com.learning.testcases.dataDriver_SauceLabs"/>-->
-            <class name="com.learning.webElemtnTestCases.Links"/>
+                </methods>
+                
+            </class>
         </classes>
     </test>
 </suite>
