@@ -1406,3 +1406,303 @@
 2022-02-13 15:59:29,815 [TestNG-test=saucelabs Login page  -1] INFO SauceLabs - Remote Chrome browser launched
 2022-02-13 15:59:31,338 [TestNG-test=saucelabs Login page  -1] INFO SauceLabs - Browser Maximized
 2022-02-13 15:59:32,274 [TestNG-test=saucelabs Login page  -1] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 09:58:20,204 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 09:58:20,251 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 09:58:20,251 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 09:58:23,329 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 09:58:23,329 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 09:58:24,724 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 09:58:27,045 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 09:59:33,957 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 09:59:33,957 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 09:59:33,957 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 09:59:37,164 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 09:59:37,165 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 09:59:38,517 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 09:59:41,704 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 10:00:55,480 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 10:00:55,480 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 10:00:55,480 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 10:00:58,556 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 10:00:58,557 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 10:01:00,156 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 10:01:02,785 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 10:01:53,528 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 10:01:53,528 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 10:01:53,528 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 10:01:56,650 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 10:01:56,650 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 10:01:58,547 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 10:02:01,127 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 15:11:57,426 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 15:11:57,472 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 15:11:57,472 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 15:12:08,664 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 15:12:08,664 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 15:12:10,342 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 15:12:25,578 [main] INFO SauceLabs - 
+2022-02-18 15:12:25,578 [main] INFO SauceLabs - 
+2022-02-18 15:12:25,579 [main] ERROR SauceLabs - match failed
+2022-02-18 15:12:26,532 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 15:34:40,952 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 15:34:40,968 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 15:34:40,968 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 15:34:44,034 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 15:34:44,034 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 15:34:46,242 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 15:34:48,910 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 16:02:18,388 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:02:18,403 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 16:02:18,403 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:02:21,340 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 16:02:21,341 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 16:02:23,234 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 16:02:25,276 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 16:03:39,397 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:03:39,397 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 16:03:39,397 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:03:42,492 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 16:03:42,492 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 16:03:44,100 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 16:03:53,198 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 16:32:44,860 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:32:44,860 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 16:32:44,875 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 16:32:47,989 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 16:32:47,989 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 16:32:49,915 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 16:32:52,665 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:03:02,514 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:03:02,514 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:03:02,514 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:03:05,455 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:03:05,456 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:03:07,395 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:03:08,794 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:04:46,219 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:04:46,235 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:04:46,235 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:04:49,311 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:04:49,312 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:04:51,128 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:04:51,977 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:12:44,404 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:12:44,420 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:12:44,420 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:12:47,720 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:12:47,720 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:12:50,227 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:12:51,449 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:13:42,030 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:13:42,045 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:13:42,045 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:13:45,435 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:13:45,435 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:13:47,030 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:13:49,511 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:17:05,235 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:17:05,235 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:17:05,235 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:17:08,671 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:17:08,671 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:17:10,076 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:17:11,158 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:17:53,735 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:17:53,741 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:17:53,741 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:17:57,671 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:17:57,671 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:17:59,938 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:18:03,438 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:18:35,369 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:18:35,377 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:18:35,379 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:18:38,916 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:18:38,916 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:18:40,806 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:18:41,619 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:21:10,223 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:21:10,233 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:21:10,234 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:21:13,473 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:21:13,473 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:21:15,516 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:21:19,585 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:31:44,039 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:31:44,055 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:31:44,055 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:31:47,189 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:31:47,189 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:31:49,681 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:31:51,270 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:31:51,361 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:31:51,771 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:31:51,996 [main] INFO SauceLabs - placing order
+2022-02-18 17:31:52,098 [main] INFO SauceLabs - order placed
+2022-02-18 17:31:52,139 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:31:52,149 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:31:52,649 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:31:52,726 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:31:53,544 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:34:48,772 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:34:48,788 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:34:48,788 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:34:52,115 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:34:52,115 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:34:53,620 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:34:54,710 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:34:54,710 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:35:40,770 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:35:40,770 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:35:40,770 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:35:44,085 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:35:44,086 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:35:45,782 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:35:46,941 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:35:46,942 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:36:17,046 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:36:17,046 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:36:47,910 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:37:25,746 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:37:25,746 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:37:25,746 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:37:28,869 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:37:28,869 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:37:30,854 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:37:32,392 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:37:32,393 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:38:02,467 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:38:02,467 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:38:33,387 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:45:14,779 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:45:14,795 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:45:14,795 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:45:17,912 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:45:17,912 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:45:19,381 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:45:21,204 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:45:21,303 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:45:21,697 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:45:21,785 [main] INFO SauceLabs - placing order
+2022-02-18 17:45:21,871 [main] INFO SauceLabs - order placed
+2022-02-18 17:45:21,953 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:45:21,971 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:45:22,451 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:45:22,551 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:45:22,939 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:45:23,029 [main] INFO SauceLabs - placing order
+2022-02-18 17:45:23,101 [main] INFO SauceLabs - order placed
+2022-02-18 17:45:23,172 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:45:23,194 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:45:24,088 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:45:33,054 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:45:33,054 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:45:33,069 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:45:36,217 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:45:36,217 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:45:37,802 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:45:39,110 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:45:39,208 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:45:39,609 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:45:39,724 [main] INFO SauceLabs - placing order
+2022-02-18 17:45:39,794 [main] INFO SauceLabs - order placed
+2022-02-18 17:45:39,860 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:45:39,876 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:45:40,245 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:45:40,319 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:45:40,733 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:45:40,833 [main] INFO SauceLabs - placing order
+2022-02-18 17:45:40,902 [main] INFO SauceLabs - order placed
+2022-02-18 17:45:40,968 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:45:40,992 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:45:42,046 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:47:33,996 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:47:34,005 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:47:34,006 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:47:37,073 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:47:37,074 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:47:38,671 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:47:40,016 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:47:40,108 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:47:40,531 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:47:40,637 [main] INFO SauceLabs - placing order
+2022-02-18 17:47:40,754 [main] INFO SauceLabs - order placed
+2022-02-18 17:47:40,832 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:47:40,847 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:47:41,346 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:47:41,427 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:47:41,810 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:47:41,908 [main] INFO SauceLabs - placing order
+2022-02-18 17:47:41,980 [main] INFO SauceLabs - order placed
+2022-02-18 17:47:42,057 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:47:42,076 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:47:43,074 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:56:45,188 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:56:45,188 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:56:45,188 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:56:48,388 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:56:48,388 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:56:49,986 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:57:09,082 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-18 17:59:41,935 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:59:41,935 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-18 17:59:41,935 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-18 17:59:44,780 [main] INFO SauceLabs - Chrome browser launched
+2022-02-18 17:59:44,781 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-18 17:59:46,696 [main] INFO SauceLabs - Browser Maximized
+2022-02-18 17:59:47,939 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:59:48,027 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:59:48,407 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:59:48,535 [main] INFO SauceLabs - placing order
+2022-02-18 17:59:48,619 [main] INFO SauceLabs - order placed
+2022-02-18 17:59:48,681 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:59:48,697 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:59:49,797 [main] INFO SauceLabs - clicked on cart
+2022-02-18 17:59:49,881 [main] INFO SauceLabs - clicked on checkout button
+2022-02-18 17:59:50,281 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-18 17:59:50,382 [main] INFO SauceLabs - placing order
+2022-02-18 17:59:50,463 [main] INFO SauceLabs - order placed
+2022-02-18 17:59:50,538 [main] INFO SauceLabs - Verifying order
+2022-02-18 17:59:50,564 [main] INFO SauceLabs - order place successfully
+2022-02-18 17:59:52,579 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-21 10:42:46,141 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:42:46,172 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-21 10:42:46,172 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:42:51,936 [main] INFO SauceLabs - Chrome browser launched
+2022-02-21 10:42:51,936 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-21 10:42:53,621 [main] INFO SauceLabs - Browser Maximized
+2022-02-21 10:42:56,155 [main] INFO SauceLabs - clicked on cart
+2022-02-21 10:42:56,247 [main] INFO SauceLabs - clicked on checkout button
+2022-02-21 10:42:56,634 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-21 10:42:56,728 [main] INFO SauceLabs - placing order
+2022-02-21 10:42:56,802 [main] INFO SauceLabs - order placed
+2022-02-21 10:42:56,865 [main] INFO SauceLabs - Verifying order
+2022-02-21 10:42:56,882 [main] INFO SauceLabs - order place successfully
+2022-02-21 10:42:57,733 [main] INFO SauceLabs - clicked on cart
+2022-02-21 10:42:57,827 [main] INFO SauceLabs - clicked on checkout button
+2022-02-21 10:42:58,185 [main] INFO SauceLabs - fname,lname and postal code provided
+2022-02-21 10:42:58,275 [main] INFO SauceLabs - placing order
+2022-02-21 10:42:58,341 [main] INFO SauceLabs - order placed
+2022-02-21 10:42:58,404 [main] INFO SauceLabs - Verifying order
+2022-02-21 10:42:58,426 [main] INFO SauceLabs - order place successfully
+2022-02-21 10:43:01,752 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-21 10:48:34,204 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:48:34,220 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-21 10:48:34,220 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:48:37,097 [main] INFO SauceLabs - Chrome browser launched
+2022-02-21 10:48:37,100 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-21 10:48:38,634 [main] INFO SauceLabs - Browser Maximized
+2022-02-21 10:48:54,341 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-21 10:48:54,341 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:48:54,341 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-21 10:48:54,341 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:48:55,861 [main] INFO SauceLabs - Chrome browser launched
+2022-02-21 10:48:55,862 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-21 10:48:58,061 [main] INFO SauceLabs - Browser Maximized
+2022-02-21 10:49:15,325 [main] INFO SauceLabs - ####################            -E---N---D-             #######################
+2022-02-21 10:49:15,325 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:49:15,325 [main] INFO SauceLabs - #################                Starting the test          ########################
+2022-02-21 10:49:15,325 [main] INFO SauceLabs - ****************************************************************************************
+2022-02-21 10:49:17,045 [main] INFO SauceLabs - Chrome browser launched
+2022-02-21 10:49:17,045 [main] INFO SauceLabs - Remote Chrome browser launched
+2022-02-21 10:49:20,299 [main] INFO SauceLabs - Browser Maximized

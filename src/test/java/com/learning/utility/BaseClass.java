@@ -67,20 +67,22 @@ public class BaseClass {
     public void setup(String br) throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
-        capabilities.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS,true);
+        capabilities.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
 //        logger = Logger.getLogger("swaglabs");
 //        PropertyConfigurator.configure(System.getProperty("user.dir")+"/configuration/log4j.properties");
 //        DesiredCapabilities dc =  DesiredCapabilities.chrome();
 //        URL url = new URL("http://192.168.1.108:4444/");
         startTestCase("Starting the test");
-        if (br.equals("chrome")) {
+        if (br.equals("chrome")||br.equals("headlessChrome")) {
             // driver = new RemoteWebDriver(url,dc);
             ChromeOptions co = new ChromeOptions();
             System.setProperty("webdriver.chrome.driver", readConfig.getCdriver());
             driver = new ChromeDriver(co);
             info("Chrome browser launched");
             info("Remote Chrome browser launched");
-        } else if (br.equals("firefox")) {
+        }
+
+        else if (br.equals("firefox")) {
             System.setProperty("webdriver.gecko.driver", readConfig.getFdriver());
             FirefoxOptions options = new FirefoxOptions();
             options.setProfile(new FirefoxProfile());
