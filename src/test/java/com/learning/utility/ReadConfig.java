@@ -72,4 +72,28 @@ public class ReadConfig {
         String learningURL = pro.getProperty("Learning");
         return learningURL;
     }
+    public static String gethost(){
+        String getHost = pro.getProperty("host");
+        return getHost;
+    }
+    public String getMysqlUser(){
+        String getmysqluser = pro.getProperty("My_sqluser");
+        return getmysqluser;
+    }
+    public String getMysqlPass(){
+        String getMysqlpass = pro.getProperty("My_sqlpass");
+        return getMysqlpass;
+    }
+    public String getMysqlPort(){
+        String getMysqlPort = pro.getProperty("port");
+        return getMysqlPort;
+    }
+    public String getMysqlDB(){
+        String getMysqldb = pro.getProperty("DB");
+        return getMysqldb;
+    }
+    public String getMysqlTable(){
+        String getMysqltable = pro.getProperty("Tablee");
+        return getMysqltable;
+    }
 }

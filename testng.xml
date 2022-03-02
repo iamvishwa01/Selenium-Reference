@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="TestNG">
-
+    <listeners>
+        <listener class-name="com.learning.utility.Reporting"></listener>
+    </listeners>
+<parameter name="browser" value="headlessChrome"></parameter>
     <test name="Load Department">
         <classes>
-            <class name="com.learning.TestNG.TestNG"></class>
-        </classes>
-    </test>
-    <test name="Mobile">
-        <classes>
-            <class name="com.learning.TestNG.TestNGElectronic">
-                <methods>
-<!--                    regular expression to run the testcases starting with asus words-->
-                    <exclude name="asus.*"></exclude>
+<!--            <class name="com.learning.PageObjectModel.addtoCartTest"></class>-->
+            <class name="com.learning.webElemtnTestCases.ActionClassMouse_Keyboard"></class>
+            <class name="com.learning.webElemtnTestCases.BrokenLinks"></class>
+            <class name="com.learning.webElemtnTestCases.dragDrop"></class>
+            <class name="com.learning.webElemtnTestCases.staticDropDown"></class>
 
-                </methods>
-                
-            </class>
         </classes>
     </test>
 </suite>
